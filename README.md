@@ -30,8 +30,8 @@ DIY了幾台網路大神們開源的掌機後，想想也該是時候來弄台�
 * 選擇按鈕：選項選單
 
 # 使用網路資源
-[THE SPRITERS RESOURCE](https://www.spriters-resource.com/)
-[robsoncouto/arduino-songs](https://github.com/robsoncouto/arduino-songs)
+* [THE SPRITERS RESOURCE](https://www.spriters-resource.com/)
+* [robsoncouto/arduino-songs](https://github.com/robsoncouto/arduino-songs)
 
 # 詳細解說可以參考筆者寫的文章
 文章準備中。。。

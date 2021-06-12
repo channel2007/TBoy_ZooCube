@@ -30,7 +30,7 @@ B按鈕：逆時鐘旋轉方塊
 選擇按鈕：選項選單
 
 # 詳細解說可以參考筆者寫的文章
-
+文章準備中。。。
 
 # 官方紛絲團 
 [無限升級](https://www.facebook.com/unlimited.upgrade/posts/2840132506240869?notif_id=1617421138749926&notif_t=page_post_reaction&ref=notif)

@@ -34,7 +34,7 @@ DIY了幾台網路大神們開源的掌機後，想想也該是時候來弄台�
 * [robsoncouto/arduino-songs](https://github.com/robsoncouto/arduino-songs)
 
 # 詳細解說可以參考筆者寫的文章
-文章準備中。。。
+[【掌機】原創掌機TBoy](https://vocus.cc/article/60bd70f7fd8978000182d0db?fbclid=IwAR3eowbBvcs1HFQSfAkmH9ZDA18dOALh4RtLMgBzNeIG1E7RuylL_PDUpho)
 
 # 官方紛絲團 
 [無限升級](https://www.facebook.com/unlimited.upgrade/posts/2840132506240869?notif_id=1617421138749926&notif_t=page_post_reaction&ref=notif)

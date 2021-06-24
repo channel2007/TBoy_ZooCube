@@ -33,6 +33,23 @@ DIY了幾台網路大神們開源的掌機後，想想也該是時候來弄台�
 * [THE SPRITERS RESOURCE](https://www.spriters-resource.com/)
 * [robsoncouto/arduino-songs](https://github.com/robsoncouto/arduino-songs)
 
+# PCB板準備材料
+* TTGO T-Display ESP32 x 1
+* 輕觸開關中兩腳 x 6
+* 10kΩ電阻 x 6
+* 蜂鳴器 x 1
+* 鋰電池充電板模組 TYPE-C USB介面充電保護二合一 x 1
+* XH2.54-2P/針座/彎針/白色插件 2.54間距 x 1
+* XH2.54-6P/針座/彎針/白色插件 2.54間距 x 1
+* 200mAH、3.7V 聚合物鋰電池 x 1
+* 滑動開關三腳二檔微型開關 x 1
+
+# PCB線路圖
+![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/PCB_TBoySheet.png "TBoy")
+![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/PCB_TBoy.jpeg "TBoy")
+
+# 版權宣告
+
 # 詳細解說可以參考筆者寫的文章
 [【掌機】原創掌機TBoy](https://vocus.cc/article/60bd70f7fd8978000182d0db?fbclid=IwAR3eowbBvcs1HFQSfAkmH9ZDA18dOALh4RtLMgBzNeIG1E7RuylL_PDUpho)
 

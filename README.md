@@ -53,6 +53,7 @@ DIY了幾台網路大神們開源的掌機後，想想也該是時候來弄台�
 ![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/TBoy_Negative.jpg "TBoy")
 
 # 版權宣告
+僅供個人技術研究使用
 
 # 詳細解說可以參考筆者寫的文章
 [【掌機】原創掌機TBoy](https://vocus.cc/article/60bd70f7fd8978000182d0db?fbclid=IwAR3eowbBvcs1HFQSfAkmH9ZDA18dOALh4RtLMgBzNeIG1E7RuylL_PDUpho)

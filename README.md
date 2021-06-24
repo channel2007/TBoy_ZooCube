@@ -45,8 +45,12 @@ DIY了幾台網路大神們開源的掌機後，想想也該是時候來弄台�
 * 滑動開關三腳二檔微型開關 x 1
 
 # PCB線路圖
-![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/PCB_TBoySheet.png "TBoy")
+![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/PCB_TBoySheet.jpeg "TBoy")
 ![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/PCB_TBoy.jpeg "TBoy")
+
+# 實機照
+![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/TBoy_Positive.jpg "TBoy")
+![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/TBoy_Negative.jpg "TBoy")
 
 # 版權宣告
 

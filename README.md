@@ -44,6 +44,9 @@ DIY了幾台網路大神們開源的掌機後，想想也該是時候來弄台�
 * 200mAH、3.7V 聚合物鋰電池 x 1
 * 滑動開關三腳二檔微型開關 x 1
 
+# EasyEDA線路圖連接
+[EasyEDA](https://oshwlab.com/channel2007/tboy)
+
 # PCB線路圖
 ![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/PCB_TBoySheet.jpeg "TBoy")
 ![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/PCB_TBoy.jpeg "TBoy")
@@ -53,7 +56,8 @@ DIY了幾台網路大神們開源的掌機後，想想也該是時候來弄台�
 ![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/TBoy_Negative.jpg "TBoy")
 
 # 版權宣告
-僅供個人技術研究使用
+* 本專案使用MIT授權，遊戲圖形與音樂使用網路資源請參考這些資源的個別授權說明
+* 本專案如使用在商業用途上因而產生法律問題，都跟本專案無關
 
 # 研發日誌
 * 2021/06/24 新增PCB板

@@ -61,7 +61,7 @@ DIY了幾台網路大神們開源的掌機後，想想也該是時候來弄台�
 
 # 版權宣告
 * 本專案使用MIT授權，遊戲圖形與音樂使用網路資源請參考這些資源的個別授權說明
-* 本專案如使用在商業用途上因而產生法律問題，都與本專案無關
+* 本專案如使用在商業用途上因而產生法律問題，屬該員個人行為與本專案無關
 
 # 詳細解說可以參考筆者寫的文章
 [【掌機】原創掌機TBoy](https://vocus.cc/article/60bd70f7fd8978000182d0db?fbclid=IwAR3eowbBvcs1HFQSfAkmH9ZDA18dOALh4RtLMgBzNeIG1E7RuylL_PDUpho)

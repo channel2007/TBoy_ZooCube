@@ -2,6 +2,7 @@
 ![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/TBoy.jpeg "TBoy")
 
 # 研發日誌
+* 2021/08/23 新增動物方塊韌體檔案(firmware目錄)
 * 2021/07/23 修正遊戲圖形顏色不正確問題
 * 2021/06/25 開放EasyEDA顯上線路圖檔案
 * 2021/06/24 新增PCB板

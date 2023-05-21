@@ -23,6 +23,10 @@ DIY了幾台網路大神們開源的掌機後，想想也該是時候來弄台�
 # 線路圖
 ![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/Schematic_TBoy.png "TBoy")
 
+# 安裝套件
+* Bodmer/TFT_eSPI
+* [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
+
 # ZooCube遊戲介紹
 ![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/TBoy_Positive.jpg "TBoy")
 * 遊戲玩法

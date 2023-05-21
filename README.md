@@ -24,6 +24,7 @@ DIY了幾台網路大神們開源的掌機後，想想也該是時候來弄台�
 ![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/Schematic_TBoy.png "TBoy")
 
 # ZooCube遊戲介紹
+![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/TBoy_Positive.jpg "TBoy")
 * 遊戲玩法
 玩家需要在10x20的空間內控制由上往下掉落的的七種方塊，利用旋轉方塊功能使掉落的方塊連成橫線，啟動消除方塊，如果在20列中都無法連成橫線消除方塊，遊戲就告結束。
 遊戲中每消除一列會將每列的方塊顏色作累加，一共有七種顏色的方塊，每種顏色收集滿都會發動不同效果的技能。
@@ -42,6 +43,7 @@ DIY了幾台網路大神們開源的掌機後，想想也該是時候來弄台�
 * [robsoncouto/arduino-songs](https://github.com/robsoncouto/arduino-songs)
 
 # Pong連線遊戲介紹
+![alt TBoy](https://github.com/channel2007/TBoy_ZooCube/blob/master/art/IMAG0543.jpg "TBoy")
 * 遊戲玩法
 1. 遊戲場地 Pong遊戲的場地是一個矩形，有兩個玩家，一個在上方，一個在下方。每個玩家都有一個橫條（也稱為"板子"或"球拍"），可在水平方向移動。
 2. 遊戲物件：遊戲中的主要物件是一個小球，它會在遊戲場地內以一定的速度移動，並且在撞到邊界或玩家的橫條時反彈。
